@@ -6,22 +6,25 @@
  * }
  */
 func mergeTwoLists(list1 *ListNode, list2 *ListNode) *ListNode {
-    slice:=[]int{}
-    for list1!=nil{
-        slice=append(slice,list1.Val)
-        list1=list1.Next
-    }
-
-    for list2!=nil{
-        slice=append(slice,list2.Val)
-        list2=list2.Next
-    }
-    sort.Ints(slice)
-    newNode:=&ListNode{}
-    current:=newNode
-    for _, val:= range slice{
-        current.Next=&ListNode{Val:val}
+    dummyNode:=&ListNode{}
+    current:=dummyNode
+    for list1!=nil && list2!=nil{
+        if list1.Val <=list2.Val{
+            current.Next=list1
+            list1=list1.Next
+        }else {
+            current.Next=list2
+            list2=list2.Next
+        }
         current=current.Next
     }
-    return newNode.Next
+
+    if list1!=nil{
+        current.Next=list1
+    }else if list2!=nil{
+        current.Next=list2
+    }
+
+    return dummyNode.Next
+    
 }
