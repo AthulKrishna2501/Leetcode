@@ -17,11 +17,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/AthulKrishna2501/Leetcode/tree/master/0001-two-sum) |
 | [0133-clone-graph](https://github.com/AthulKrishna2501/Leetcode/tree/master/0133-clone-graph) |
+| [0383-ransom-note](https://github.com/AthulKrishna2501/Leetcode/tree/master/0383-ransom-note) |
 ## String
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AthulKrishna2501/Leetcode/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/AthulKrishna2501/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0383-ransom-note](https://github.com/AthulKrishna2501/Leetcode/tree/master/0383-ransom-note) |
 | [2727-number-of-senior-citizens](https://github.com/AthulKrishna2501/Leetcode/tree/master/2727-number-of-senior-citizens) |
 ## Stack
 |  |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/AthulKrishna2501/Leetcode/tree/master/0383-ransom-note) |
 | [0948-sort-an-array](https://github.com/AthulKrishna2501/Leetcode/tree/master/0948-sort-an-array) |
 ## Breadth-First Search
 |  |
