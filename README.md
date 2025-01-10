@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/AthulKrishna2501/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/AthulKrishna2501/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2727-number-of-senior-citizens](https://github.com/AthulKrishna2501/Leetcode/tree/master/2727-number-of-senior-citizens) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/AthulKrishna2501/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/AthulKrishna2501/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Hash Table
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/AthulKrishna2501/Leetcode/tree/master/0133-clone-graph) |
 | [0383-ransom-note](https://github.com/AthulKrishna2501/Leetcode/tree/master/0383-ransom-note) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/AthulKrishna2501/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/AthulKrishna2501/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## String
 |  |
 | ------- |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/AthulKrishna2501/Leetcode/tree/master/0383-ransom-note) |
 | [0948-sort-an-array](https://github.com/AthulKrishna2501/Leetcode/tree/master/0948-sort-an-array) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/AthulKrishna2501/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Breadth-First Search
 |  |
 | ------- |
