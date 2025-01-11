@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/AthulKrishna2501/Leetcode/tree/master/0792-binary-search) |
 | [0941-sort-array-by-parity](https://github.com/AthulKrishna2501/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/AthulKrishna2501/Leetcode/tree/master/0948-sort-an-array) |
+| [0958-sort-array-by-parity-ii](https://github.com/AthulKrishna2501/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1791-richest-customer-wealth](https://github.com/AthulKrishna2501/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/AthulKrishna2501/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/AthulKrishna2501/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AthulKrishna2501/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/AthulKrishna2501/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0941-sort-array-by-parity](https://github.com/AthulKrishna2501/Leetcode/tree/master/0941-sort-array-by-parity) |
+| [0958-sort-array-by-parity-ii](https://github.com/AthulKrishna2501/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/AthulKrishna2501/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Math
 |  |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/AthulKrishna2501/Leetcode/tree/master/0164-maximum-gap) |
 | [0941-sort-array-by-parity](https://github.com/AthulKrishna2501/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/AthulKrishna2501/Leetcode/tree/master/0948-sort-an-array) |
+| [0958-sort-array-by-parity-ii](https://github.com/AthulKrishna2501/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
