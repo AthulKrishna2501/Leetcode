@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2727-number-of-senior-citizens](https://github.com/AthulKrishna2501/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2836-neither-minimum-nor-maximum](https://github.com/AthulKrishna2501/Leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/AthulKrishna2501/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AthulKrishna2501/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/AthulKrishna2501/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Hash Table
 |  |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/AthulKrishna2501/Leetcode/tree/master/0069-sqrtx) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AthulKrishna2501/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/AthulKrishna2501/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Design
 |  |
