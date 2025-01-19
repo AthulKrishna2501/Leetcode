@@ -1,44 +1,29 @@
 func findDifference(nums1 []int, nums2 []int) [][]int {
-    seen:=make(map[int]bool)
-  arr1:=[]int{}
-  arr2:=[]int{}
+    seen1:=make(map[int]bool)
+    seen2:=make(map[int]bool)
+    arr1:=[]int{}
+    arr2:=[]int{}
+
+    for _, num1:= range nums1{
+        seen1[num1]=true
+    }
+
+    for _, num2:= range nums2{
+        seen2[num2]=true
+    }
 
 
-  for i:=0;i<len(nums1);i++{
-      seen[nums1[i]]=true
-}
+    for value := range seen1{
+        if !seen2[value]{
+            arr1=append(arr1,value)
+        }
+    }
 
-for j:=0;j<len(nums2);j++{
-  if seen[nums2[j]]{
-    seen[nums2[j]]=false
-  }
-}
+    for value:= range seen2{
+        if !seen1[value]{
+            arr2= append(arr2,value)
+        }
+    }
 
-for key,value:= range seen{
-  if value!=false{
-    arr1=append(arr1,key)
-  }
-}
-
- for i:=0;i<len(nums2);i++{
-      seen[nums2[i]]=true
-}
-
-for j:=0;j<len(nums1);j++{
-  if seen[nums1[j]]{
-    seen[nums1[j]]=false
-  }
-}
-
-for key,value:= range seen{
-  if value!=false{
-    arr2=append(arr2,key)
-  }
-}
-
-result:=[][]int{}
-result=append(result,arr1,arr2)
-
-return result
-
+    return [][]int{arr1,arr2}
 }
