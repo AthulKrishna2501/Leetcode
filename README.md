@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/AthulKrishna2501/Leetcode/tree/master/0069-sqrtx) |
+| [1630-count-odd-numbers-in-an-interval-range](https://github.com/AthulKrishna2501/Leetcode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [2812-find-the-maximum-achievable-number](https://github.com/AthulKrishna2501/Leetcode/tree/master/2812-find-the-maximum-achievable-number) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AthulKrishna2501/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/AthulKrishna2501/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
