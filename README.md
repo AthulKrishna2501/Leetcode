@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/AthulKrishna2501/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/AthulKrishna2501/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/AthulKrishna2501/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0506-relative-ranks](https://github.com/AthulKrishna2501/Leetcode/tree/master/0506-relative-ranks) |
 | [0682-baseball-game](https://github.com/AthulKrishna2501/Leetcode/tree/master/0682-baseball-game) |
 | [0792-binary-search](https://github.com/AthulKrishna2501/Leetcode/tree/master/0792-binary-search) |
 | [0941-sort-array-by-parity](https://github.com/AthulKrishna2501/Leetcode/tree/master/0941-sort-array-by-parity) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0164-maximum-gap](https://github.com/AthulKrishna2501/Leetcode/tree/master/0164-maximum-gap) |
 | [0349-intersection-of-two-arrays](https://github.com/AthulKrishna2501/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0506-relative-ranks](https://github.com/AthulKrishna2501/Leetcode/tree/master/0506-relative-ranks) |
 | [0941-sort-array-by-parity](https://github.com/AthulKrishna2501/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/AthulKrishna2501/Leetcode/tree/master/0948-sort-an-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/AthulKrishna2501/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/AthulKrishna2501/Leetcode/tree/master/0506-relative-ranks) |
 | [0948-sort-an-array](https://github.com/AthulKrishna2501/Leetcode/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
