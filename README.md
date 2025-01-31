@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/AthulKrishna2501/Leetcode/tree/master/0164-maximum-gap) |
 | [0219-contains-duplicate-ii](https://github.com/AthulKrishna2501/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/AthulKrishna2501/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0485-max-consecutive-ones](https://github.com/AthulKrishna2501/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0682-baseball-game](https://github.com/AthulKrishna2501/Leetcode/tree/master/0682-baseball-game) |
 | [0792-binary-search](https://github.com/AthulKrishna2501/Leetcode/tree/master/0792-binary-search) |
 | [0941-sort-array-by-parity](https://github.com/AthulKrishna2501/Leetcode/tree/master/0941-sort-array-by-parity) |
