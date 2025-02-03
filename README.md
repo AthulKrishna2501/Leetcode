@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AthulKrishna2501/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/AthulKrishna2501/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/AthulKrishna2501/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2427-first-letter-to-appear-twice](https://github.com/AthulKrishna2501/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2685-first-completely-painted-row-or-column](https://github.com/AthulKrishna2501/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/AthulKrishna2501/Leetcode/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/AthulKrishna2501/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/AthulKrishna2501/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/AthulKrishna2501/Leetcode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/AthulKrishna2501/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2427-first-letter-to-appear-twice](https://github.com/AthulKrishna2501/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2727-number-of-senior-citizens](https://github.com/AthulKrishna2501/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [3379-score-of-a-string](https://github.com/AthulKrishna2501/Leetcode/tree/master/3379-score-of-a-string) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/AthulKrishna2501/Leetcode/tree/master/3408-count-the-number-of-special-characters-i) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0137-single-number-ii](https://github.com/AthulKrishna2501/Leetcode/tree/master/0137-single-number-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/AthulKrishna2501/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [2427-first-letter-to-appear-twice](https://github.com/AthulKrishna2501/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/AthulKrishna2501/Leetcode/tree/master/3044-minimum-operations-to-collect-elements) |
 ## Divide and Conquer
 |  |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-height-checker](https://github.com/AthulKrishna2501/Leetcode/tree/master/1137-height-checker) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AthulKrishna2501/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/AthulKrishna2501/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [2427-first-letter-to-appear-twice](https://github.com/AthulKrishna2501/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/AthulKrishna2501/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Breadth-First Search
 |  |
