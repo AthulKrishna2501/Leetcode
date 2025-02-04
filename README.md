@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2685-first-completely-painted-row-or-column](https://github.com/AthulKrishna2501/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2727-number-of-senior-citizens](https://github.com/AthulKrishna2501/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2836-neither-minimum-nor-maximum](https://github.com/AthulKrishna2501/Leetcode/tree/master/2836-neither-minimum-nor-maximum) |
+| [2844-sum-of-squares-of-special-elements](https://github.com/AthulKrishna2501/Leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/AthulKrishna2501/Leetcode/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/AthulKrishna2501/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/AthulKrishna2501/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -283,4 +284,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AthulKrishna2501/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/AthulKrishna2501/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+## Enumeration
+|  |
+| ------- |
+| [2844-sum-of-squares-of-special-elements](https://github.com/AthulKrishna2501/Leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
