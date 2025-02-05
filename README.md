@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/AthulKrishna2501/Leetcode/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/AthulKrishna2501/Leetcode/tree/master/0069-sqrtx) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/AthulKrishna2501/Leetcode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
+| [2752-sum-multiples](https://github.com/AthulKrishna2501/Leetcode/tree/master/2752-sum-multiples) |
 | [2812-find-the-maximum-achievable-number](https://github.com/AthulKrishna2501/Leetcode/tree/master/2812-find-the-maximum-achievable-number) |
 | [3227-find-missing-and-repeated-values](https://github.com/AthulKrishna2501/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AthulKrishna2501/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
