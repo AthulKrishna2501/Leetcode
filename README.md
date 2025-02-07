@@ -291,4 +291,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2844-sum-of-squares-of-special-elements](https://github.com/AthulKrishna2501/Leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/AthulKrishna2501/Leetcode/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
