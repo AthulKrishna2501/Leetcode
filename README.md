@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-find-the-difference-of-two-arrays](https://github.com/AthulKrishna2501/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AthulKrishna2501/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/AthulKrishna2501/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/AthulKrishna2501/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1755-defuse-the-bomb](https://github.com/AthulKrishna2501/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [1791-richest-customer-wealth](https://github.com/AthulKrishna2501/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [1833-find-the-highest-altitude](https://github.com/AthulKrishna2501/Leetcode/tree/master/1833-find-the-highest-altitude) |
