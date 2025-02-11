@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/AthulKrishna2501/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/AthulKrishna2501/Leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/AthulKrishna2501/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2442-number-of-arithmetic-triplets](https://github.com/AthulKrishna2501/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2639-separate-the-digits-in-an-array](https://github.com/AthulKrishna2501/Leetcode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2685-first-completely-painted-row-or-column](https://github.com/AthulKrishna2501/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2727-number-of-senior-citizens](https://github.com/AthulKrishna2501/Leetcode/tree/master/2727-number-of-senior-citizens) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/AthulKrishna2501/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/AthulKrishna2501/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2427-first-letter-to-appear-twice](https://github.com/AthulKrishna2501/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
+| [2442-number-of-arithmetic-triplets](https://github.com/AthulKrishna2501/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2685-first-completely-painted-row-or-column](https://github.com/AthulKrishna2501/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/AthulKrishna2501/Leetcode/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/AthulKrishna2501/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/AthulKrishna2501/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/AthulKrishna2501/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/AthulKrishna2501/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2442-number-of-arithmetic-triplets](https://github.com/AthulKrishna2501/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 ## Math
 |  |
 | ------- |
@@ -302,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2442-number-of-arithmetic-triplets](https://github.com/AthulKrishna2501/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/AthulKrishna2501/Leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
 ## Database
 |  |
