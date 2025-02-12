@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/AthulKrishna2501/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0682-baseball-game](https://github.com/AthulKrishna2501/Leetcode/tree/master/0682-baseball-game) |
 | [0792-binary-search](https://github.com/AthulKrishna2501/Leetcode/tree/master/0792-binary-search) |
+| [0861-flipping-an-image](https://github.com/AthulKrishna2501/Leetcode/tree/master/0861-flipping-an-image) |
 | [0941-sort-array-by-parity](https://github.com/AthulKrishna2501/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/AthulKrishna2501/Leetcode/tree/master/0948-sort-an-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/AthulKrishna2501/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/AthulKrishna2501/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/AthulKrishna2501/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/AthulKrishna2501/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0861-flipping-an-image](https://github.com/AthulKrishna2501/Leetcode/tree/master/0861-flipping-an-image) |
 | [0941-sort-array-by-parity](https://github.com/AthulKrishna2501/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/AthulKrishna2501/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/AthulKrishna2501/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0861-flipping-an-image](https://github.com/AthulKrishna2501/Leetcode/tree/master/0861-flipping-an-image) |
 | [1791-richest-customer-wealth](https://github.com/AthulKrishna2501/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/AthulKrishna2501/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2685-first-completely-painted-row-or-column](https://github.com/AthulKrishna2501/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0137-single-number-ii](https://github.com/AthulKrishna2501/Leetcode/tree/master/0137-single-number-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/AthulKrishna2501/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0861-flipping-an-image](https://github.com/AthulKrishna2501/Leetcode/tree/master/0861-flipping-an-image) |
 | [2427-first-letter-to-appear-twice](https://github.com/AthulKrishna2501/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/AthulKrishna2501/Leetcode/tree/master/3044-minimum-operations-to-collect-elements) |
 ## Divide and Conquer
@@ -288,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/AthulKrishna2501/Leetcode/tree/master/0682-baseball-game) |
+| [0861-flipping-an-image](https://github.com/AthulKrishna2501/Leetcode/tree/master/0861-flipping-an-image) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/AthulKrishna2501/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2639-separate-the-digits-in-an-array](https://github.com/AthulKrishna2501/Leetcode/tree/master/2639-separate-the-digits-in-an-array) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/AthulKrishna2501/Leetcode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
