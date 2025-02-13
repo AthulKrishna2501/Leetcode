@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/AthulKrishna2501/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/AthulKrishna2501/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/AthulKrishna2501/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [1970-sorting-the-sentence](https://github.com/AthulKrishna2501/Leetcode/tree/master/1970-sorting-the-sentence) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/AthulKrishna2501/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/AthulKrishna2501/Leetcode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/AthulKrishna2501/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/AthulKrishna2501/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1137-height-checker](https://github.com/AthulKrishna2501/Leetcode/tree/master/1137-height-checker) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AthulKrishna2501/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1970-sorting-the-sentence](https://github.com/AthulKrishna2501/Leetcode/tree/master/1970-sorting-the-sentence) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/AthulKrishna2501/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2836-neither-minimum-nor-maximum](https://github.com/AthulKrishna2501/Leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 ## Heap (Priority Queue)
