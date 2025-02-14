@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/AthulKrishna2501/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/AthulKrishna2501/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/AthulKrishna2501/Leetcode/tree/master/3408-count-the-number-of-special-characters-i) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/AthulKrishna2501/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## String
 |  |
 | ------- |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-score-of-a-string](https://github.com/AthulKrishna2501/Leetcode/tree/master/3379-score-of-a-string) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/AthulKrishna2501/Leetcode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/AthulKrishna2501/Leetcode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/AthulKrishna2501/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Stack
 |  |
 | ------- |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/AthulKrishna2501/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/AthulKrishna2501/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/AthulKrishna2501/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/AthulKrishna2501/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Breadth-First Search
 |  |
 | ------- |
