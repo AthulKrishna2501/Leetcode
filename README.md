@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2727-number-of-senior-citizens](https://github.com/AthulKrishna2501/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2836-neither-minimum-nor-maximum](https://github.com/AthulKrishna2501/Leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/AthulKrishna2501/Leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/AthulKrishna2501/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/AthulKrishna2501/Leetcode/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/AthulKrishna2501/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/AthulKrishna2501/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-first-letter-to-appear-twice](https://github.com/AthulKrishna2501/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2442-number-of-arithmetic-triplets](https://github.com/AthulKrishna2501/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2685-first-completely-painted-row-or-column](https://github.com/AthulKrishna2501/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/AthulKrishna2501/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/AthulKrishna2501/Leetcode/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/AthulKrishna2501/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/AthulKrishna2501/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-first-letter-to-appear-twice](https://github.com/AthulKrishna2501/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2727-number-of-senior-citizens](https://github.com/AthulKrishna2501/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/AthulKrishna2501/Leetcode/tree/master/2819-remove-trailing-zeros-from-a-string) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/AthulKrishna2501/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3379-score-of-a-string](https://github.com/AthulKrishna2501/Leetcode/tree/master/3379-score-of-a-string) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/AthulKrishna2501/Leetcode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/AthulKrishna2501/Leetcode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
@@ -303,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/AthulKrishna2501/Leetcode/tree/master/0861-flipping-an-image) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/AthulKrishna2501/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2639-separate-the-digits-in-an-array](https://github.com/AthulKrishna2501/Leetcode/tree/master/2639-separate-the-digits-in-an-array) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/AthulKrishna2501/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/AthulKrishna2501/Leetcode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 ## Prefix Sum
 |  |
