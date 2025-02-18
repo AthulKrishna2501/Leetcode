@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/AthulKrishna2501/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0164-maximum-gap](https://github.com/AthulKrishna2501/Leetcode/tree/master/0164-maximum-gap) |
 | [0219-contains-duplicate-ii](https://github.com/AthulKrishna2501/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0347-top-k-frequent-elements](https://github.com/AthulKrishna2501/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/AthulKrishna2501/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/AthulKrishna2501/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0506-relative-ranks](https://github.com/AthulKrishna2501/Leetcode/tree/master/0506-relative-ranks) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/AthulKrishna2501/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0208-implement-trie-prefix-tree](https://github.com/AthulKrishna2501/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0219-contains-duplicate-ii](https://github.com/AthulKrishna2501/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0347-top-k-frequent-elements](https://github.com/AthulKrishna2501/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/AthulKrishna2501/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/AthulKrishna2501/Leetcode/tree/master/0383-ransom-note) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/AthulKrishna2501/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -237,11 +239,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/AthulKrishna2501/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/AthulKrishna2501/Leetcode/tree/master/0948-sort-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/AthulKrishna2501/Leetcode/tree/master/0164-maximum-gap) |
+| [0347-top-k-frequent-elements](https://github.com/AthulKrishna2501/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/AthulKrishna2501/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0506-relative-ranks](https://github.com/AthulKrishna2501/Leetcode/tree/master/0506-relative-ranks) |
 | [0941-sort-array-by-parity](https://github.com/AthulKrishna2501/Leetcode/tree/master/0941-sort-array-by-parity) |
@@ -256,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/AthulKrishna2501/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/AthulKrishna2501/Leetcode/tree/master/0506-relative-ranks) |
 | [0948-sort-an-array](https://github.com/AthulKrishna2501/Leetcode/tree/master/0948-sort-an-array) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/AthulKrishna2501/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
@@ -267,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/AthulKrishna2501/Leetcode/tree/master/0164-maximum-gap) |
+| [0347-top-k-frequent-elements](https://github.com/AthulKrishna2501/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/AthulKrishna2501/Leetcode/tree/master/0948-sort-an-array) |
 ## Radix Sort
 |  |
@@ -276,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/AthulKrishna2501/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/AthulKrishna2501/Leetcode/tree/master/0383-ransom-note) |
 | [0948-sort-an-array](https://github.com/AthulKrishna2501/Leetcode/tree/master/0948-sort-an-array) |
 | [1137-height-checker](https://github.com/AthulKrishna2501/Leetcode/tree/master/1137-height-checker) |
@@ -345,4 +352,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0584-find-customer-referee](https://github.com/AthulKrishna2501/Leetcode/tree/master/0584-find-customer-referee) |
 | [1153-product-sales-analysis-i](https://github.com/AthulKrishna2501/Leetcode/tree/master/1153-product-sales-analysis-i) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/AthulKrishna2501/Leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
