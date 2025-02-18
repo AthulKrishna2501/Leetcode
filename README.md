@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/AthulKrishna2501/Leetcode/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/AthulKrishna2501/Leetcode/tree/master/0069-sqrtx) |
+| [0258-add-digits](https://github.com/AthulKrishna2501/Leetcode/tree/master/0258-add-digits) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/AthulKrishna2501/Leetcode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [2238-a-number-after-a-double-reversal](https://github.com/AthulKrishna2501/Leetcode/tree/master/2238-a-number-after-a-double-reversal) |
 | [2752-sum-multiples](https://github.com/AthulKrishna2501/Leetcode/tree/master/2752-sum-multiples) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/AthulKrishna2501/Leetcode/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/AthulKrishna2501/Leetcode/tree/master/0682-baseball-game) |
 | [0861-flipping-an-image](https://github.com/AthulKrishna2501/Leetcode/tree/master/0861-flipping-an-image) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/AthulKrishna2501/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
@@ -356,4 +358,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/AthulKrishna2501/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/AthulKrishna2501/Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
