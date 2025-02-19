@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/AthulKrishna2501/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/AthulKrishna2501/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0812-rotate-string](https://github.com/AthulKrishna2501/Leetcode/tree/master/0812-rotate-string) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/AthulKrishna2501/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/AthulKrishna2501/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1970-sorting-the-sentence](https://github.com/AthulKrishna2501/Leetcode/tree/master/1970-sorting-the-sentence) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/AthulKrishna2501/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/AthulKrishna2501/Leetcode/tree/master/0383-ransom-note) |
 | [0948-sort-an-array](https://github.com/AthulKrishna2501/Leetcode/tree/master/0948-sort-an-array) |
 | [1137-height-checker](https://github.com/AthulKrishna2501/Leetcode/tree/master/1137-height-checker) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/AthulKrishna2501/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AthulKrishna2501/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/AthulKrishna2501/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1848-sum-of-unique-elements](https://github.com/AthulKrishna2501/Leetcode/tree/master/1848-sum-of-unique-elements) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AthulKrishna2501/Leetcode/tree/master/0011-container-with-most-water) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/AthulKrishna2501/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2756-buy-two-chocolates](https://github.com/AthulKrishna2501/Leetcode/tree/master/2756-buy-two-chocolates) |
 ## Trie
 |  |
