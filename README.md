@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2585-delete-greatest-value-in-each-row](https://github.com/AthulKrishna2501/Leetcode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2639-separate-the-digits-in-an-array](https://github.com/AthulKrishna2501/Leetcode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2685-first-completely-painted-row-or-column](https://github.com/AthulKrishna2501/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/AthulKrishna2501/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2727-number-of-senior-citizens](https://github.com/AthulKrishna2501/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2756-buy-two-chocolates](https://github.com/AthulKrishna2501/Leetcode/tree/master/2756-buy-two-chocolates) |
 | [2836-neither-minimum-nor-maximum](https://github.com/AthulKrishna2501/Leetcode/tree/master/2836-neither-minimum-nor-maximum) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-first-letter-to-appear-twice](https://github.com/AthulKrishna2501/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2442-number-of-arithmetic-triplets](https://github.com/AthulKrishna2501/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2685-first-completely-painted-row-or-column](https://github.com/AthulKrishna2501/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/AthulKrishna2501/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/AthulKrishna2501/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3044-minimum-operations-to-collect-elements](https://github.com/AthulKrishna2501/Leetcode/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/AthulKrishna2501/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/AthulKrishna2501/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2442-number-of-arithmetic-triplets](https://github.com/AthulKrishna2501/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2551-apply-operations-to-an-array](https://github.com/AthulKrishna2501/Leetcode/tree/master/2551-apply-operations-to-an-array) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/AthulKrishna2501/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Math
 |  |
 | ------- |
