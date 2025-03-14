@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/AthulKrishna2501/Leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1848-sum-of-unique-elements](https://github.com/AthulKrishna2501/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/AthulKrishna2501/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/AthulKrishna2501/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/AthulKrishna2501/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/AthulKrishna2501/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/AthulKrishna2501/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/AthulKrishna2501/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1848-sum-of-unique-elements](https://github.com/AthulKrishna2501/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/AthulKrishna2501/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/AthulKrishna2501/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/AthulKrishna2501/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2427-first-letter-to-appear-twice](https://github.com/AthulKrishna2501/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2442-number-of-arithmetic-triplets](https://github.com/AthulKrishna2501/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/AthulKrishna2501/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/AthulKrishna2501/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1970-sorting-the-sentence](https://github.com/AthulKrishna2501/Leetcode/tree/master/1970-sorting-the-sentence) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/AthulKrishna2501/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/AthulKrishna2501/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/AthulKrishna2501/Leetcode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/AthulKrishna2501/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -346,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AthulKrishna2501/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/AthulKrishna2501/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1848-sum-of-unique-elements](https://github.com/AthulKrishna2501/Leetcode/tree/master/1848-sum-of-unique-elements) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/AthulKrishna2501/Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/AthulKrishna2501/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/AthulKrishna2501/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/AthulKrishna2501/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
