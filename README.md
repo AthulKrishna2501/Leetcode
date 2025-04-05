@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/AthulKrishna2501/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0258-add-digits](https://github.com/AthulKrishna2501/Leetcode/tree/master/0258-add-digits) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/AthulKrishna2501/Leetcode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
+| [1806-count-of-matches-in-tournament](https://github.com/AthulKrishna2501/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/AthulKrishna2501/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2238-a-number-after-a-double-reversal](https://github.com/AthulKrishna2501/Leetcode/tree/master/2238-a-number-after-a-double-reversal) |
 | [2752-sum-multiples](https://github.com/AthulKrishna2501/Leetcode/tree/master/2752-sum-multiples) |
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/AthulKrishna2501/Leetcode/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/AthulKrishna2501/Leetcode/tree/master/0682-baseball-game) |
 | [0861-flipping-an-image](https://github.com/AthulKrishna2501/Leetcode/tree/master/0861-flipping-an-image) |
+| [1806-count-of-matches-in-tournament](https://github.com/AthulKrishna2501/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/AthulKrishna2501/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/AthulKrishna2501/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2551-apply-operations-to-an-array](https://github.com/AthulKrishna2501/Leetcode/tree/master/2551-apply-operations-to-an-array) |
